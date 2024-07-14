@@ -1,6 +1,6 @@
 package org.projectEuler;
 
-public class HighlyDivisibleTriangularNumber {
+public class DoubleBasePalindromes {
     public static void main(String[] args) {
         int result = 0;
         for(int i = 0; i < 1000000; i++){
